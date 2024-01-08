@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/etykietalogowania/etykietalogowania.iml" filepath="$PROJECT_DIR$/etykietalogowania/etykietalogowania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jezykiprogramowania.iml" filepath="$PROJECT_DIR$/.idea/jezykiprogramowania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kolokwium/kolokwium.iml" filepath="$PROJECT_DIR$/kolokwium/kolokwium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labolatoria 2 zad 1/labolatoria 2 zad 1.iml" filepath="$PROJECT_DIR$/labolatoria 2 zad 1/labolatoria 2 zad 1.iml" />
+    </modules>
+  </component>
+</project>
